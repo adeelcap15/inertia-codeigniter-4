@@ -1,22 +1,22 @@
 {
-    "name": "amirami/inertia-codeigniter-4",
+    "name": "adeelcap15/inertia-codeigniter-4",
     "description": "Inertia server-side adapter for CodeIgniter 4",
     "keywords": [
         "inertia",
         "codeigniter"
     ],
-    "homepage": "https://github.com/amirami/inertia-codeigniter-4",
+    "homepage": "https://github.com/adeelcap15/inertia-codeigniter-4",
     "license": "MIT",
     "authors": [
         {
-            "name": "Amir Rami",
-            "email": "me@amirrami.com",
-            "homepage": "https://amirrami.com",
+            "name": "Adeel",
+            "email": "adeelcap15@gmail.com",
+            "homepage": "https://github.com/adeelcap15",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^8.2",
         "ext-json": "*",
         "codeigniter4/framework": "^4.0.2"
     },
